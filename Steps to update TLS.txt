@@ -1,0 +1,6 @@
+SP1 one is necessary.
+https://www.catalog.update.microsoft.com/search.aspx?q=kb3140245
+
+https://support.microsoft.com/en-in/help/3140245/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-wi
+
+use download and set TLS as well.SP1 also required.
